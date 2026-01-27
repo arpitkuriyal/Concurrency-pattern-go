@@ -65,8 +65,8 @@ Both approaches reduce concurrency problems.
 - Developers promise not to misuse data
 - Compiler does not help
 
-❌ Easy to break  
-❌ Not recommended for large codebases
+ Easy to break  
+ Not recommended for large codebases
 
 ---
 
